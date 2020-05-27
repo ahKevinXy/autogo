@@ -1,0 +1,2 @@
+# autogo
+just fro auto
